@@ -2,5 +2,6 @@
 # and open the template in the editor.
 
 
-puts "Hello World"
+10.times do puts "Hello World" end
 puts "Hello Commit!"
+
